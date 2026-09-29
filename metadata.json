@@ -1,0 +1,6 @@
+{
+  "name": "Hindsight SRE - AI Incident Response Agent",
+  "description": "Self-learning AI Incident Response Agent with Hindsight organizational memory. Recalls past root causes and proven solutions with human-in-the-loop safety approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
